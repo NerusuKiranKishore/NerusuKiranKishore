@@ -6,17 +6,6 @@
 
 ---
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nerusu_Kiran_Kishore-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nerusu-kiran-kishore-a15365345)
-[![College Mail](https://img.shields.io/badge/College_Mail-kirankishore.n24@iiits.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirankishore.n24@iiits.in)
-[![Gmail](https://img.shields.io/badge/Gmail-kirankishorenerusu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirankishorenerusu@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=NerusuKiranKishore&label=Profile+Views&color=0e75b6&style=for-the-badge)
-
-</div>
-
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 👨‍💻 About Me
@@ -40,7 +29,6 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,7 +36,7 @@
 
 **Concepts**
 
-![OOP](https://img.shields.io/badge/OOP-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Java_Based-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Learning-2196F3?style=for-the-badge&logo=leetcode&logoColor=white)
 
 **Tools & Platforms**
@@ -71,6 +59,19 @@
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NerusuKiranKishore&theme=tokyo-night&hide_border=true&area=true&height=250&radius=8" width="75%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nerusu_Kiran_Kishore-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nerusu-kiran-kishore-a15365345)
+[![College Mail](https://img.shields.io/badge/College_Mail-kirankishore.n24@iiits.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirankishore.n24@iiits.in)
+[![Gmail](https://img.shields.io/badge/Gmail-kirankishorenerusu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirankishorenerusu@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=NerusuKiranKishore&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
