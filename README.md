@@ -28,8 +28,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-> ⚡ *Update this section with the languages & tools you actually use!*
-
 ---
 
 ## 📊 GitHub Stats
@@ -39,7 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerusuKiranKishore&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-> 🔁 *Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username*
 
 ---
 
@@ -66,7 +63,6 @@
   </a>
 </p>
 
-> 📝 *Replace the email links above with your actual email if needed*
 
 ---
 
