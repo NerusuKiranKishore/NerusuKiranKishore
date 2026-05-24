@@ -33,24 +33,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NerusuKiranKishore&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerusuKiranKishore&layout=compact&theme=radical&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=NerusuKiranKishore&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NerusuKiranKishore&theme=redical&hide_border=true&area=true&area_color=FF6B6B" width="95%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NerusuKiranKishore&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NerusuKiranKishore&theme=redical&hide_border=true&area=true&area_color=FF6B6B&height=250" width="75%" />
 </p>
 
 ---
