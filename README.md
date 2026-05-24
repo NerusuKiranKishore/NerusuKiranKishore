@@ -1,7 +1,7 @@
 # Hi there, I'm Nerusu Kiran Kishore 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Student+Developer;Lifelong+Learner;Aspiring+Developer;Open+to+Collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Student+Developer;Lifelong+Learner;Aspiring+Developer;Open+to+Collaborate!" alt="Typing SVG" />
 </p>
 
 ---
@@ -33,10 +33,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NerusuKiranKishore&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerusuKiranKishore&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=NerusuKiranKishore&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NerusuKiranKishore&theme=tokyo-night&hide_border=true" width="95%" />
+</p>
 
 ---
 
@@ -62,7 +64,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
