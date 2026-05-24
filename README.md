@@ -1,7 +1,7 @@
 # Hi there, I'm Nerusu Kiran Kishore 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Student+Developer;Lifelong+Learner;Aspiring+Developer;Open+to+Collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Student+Developer+%F0%9F%8E%93;Lifelong+Learner+%F0%9F%8C%B1;Aspiring+Developer+%F0%9F%9A%80;Open+to+Collaborate+%F0%9F%A4%9D;Building+one+project+at+a+time+%F0%9F%94%A8" alt="Typing SVG" />
 </p>
 
 ---
@@ -33,11 +33,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NerusuKiranKishore&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NerusuKiranKishore&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerusuKiranKishore&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NerusuKiranKishore&theme=tokyo-night&hide_border=true" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=NerusuKiranKishore&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NerusuKiranKishore&theme=redical&hide_border=true&area=true&area_color=FF6B6B" width="95%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NerusuKiranKishore&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </p>
 
 ---
@@ -68,7 +81,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NerusuKiranKishore&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=NerusuKiranKishore&label=Profile%20views&color=FF6B6B&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
